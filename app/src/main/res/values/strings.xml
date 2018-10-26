@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">School List</string>
+    <string name="Santa_Teresita">El Colegio Santa Teresita inició sus labores el 2 de enero de 1930, bajo la protección de Santa Teresita. La Srta. Rosa Molina Midence y un grupo de colaboradoras, deseosas de formar a la juventud guatemalteca con bases profundamente cristianas, dieron inicio a esta obra educativa con miras a entregarla más tarde a una congregación religiosa.
+La visión del colegio es ser una institución educativa que, desde los valores evangélicos e inspirados en el carisma del Instituto de las Oblatas de Corazón de Jesús, forme personas integrales, comprometidas en la construcción del Reino de Dios en la historia.</string>
+    <string name="Belga">Somos una obra educativa de las Hermanas de la Congregación de la Sagrada Familia de Helmet, originaria de Bélgica, quienes desde sus inicios han acompañado nuestra labor.
+
+Desde 1933, contamos con una trayectoria de experiencia educativa que nos ha permitido lograr un sólido prestigio en Guatemala. Somos una comunidad de aprendizaje en donde el educando y la educanda son protagonistas de una pedagogía rica en valores humanos y cristianos, que promueve el crecimiento intelectual, personal y espiritual para desarrollar un alto sentido de servicio, responsabilidad y participación.</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
